@@ -13,7 +13,7 @@ Von Noel Keller
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* [video lernbericht](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
+![jsf](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
 * Eine textliche Beschreibung
 * Ein deutliches, aussa
 
