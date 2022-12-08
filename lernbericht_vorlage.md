@@ -3,7 +3,7 @@ Von Noel Keller
 
 ## Einleitung
 
-In diesem Auftrag ging es darum, dass ein Benutzer von der InsecureApp in der Suchfunktion irgendeinen html befehl eingeben kann und so auf den Server zugreifen kann. Bei dem Beispiel, was ich im Lernbericht zeige ist das nicht wirklich eine schlimme Sache, aber durch diese Lücke kann ein Benutzer, welcher sich gut mit hacking auskennt, einfach das Programm zum absturz bringen. 
+In diesem Auftrag ging es darum, dass ein Benutzer von der InsecureApp in der Suchfunktion irgendeinen html befehl eingeben kann und so auf den Code von Programm "zugreifen" kann. Bei dem Beispiel, was ich im Lernbericht zeige ist das nicht wirklich eine schlimme Sache, aber durch diese Lücke kann ein Benutzer, welcher sich gut mit hacking auskennt, einfach das Programm zum Absturz bringen. 
 
 ## Was habe ich gelernt?
 
@@ -13,8 +13,11 @@ Ich habe gelernt, dass man bei Informationen von einem Eingabefeld zum Beispiel 
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
+![jsf](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
+
 ![bild lernbericht](https://user-images.githubusercontent.com/74292626/206473622-6956e2c4-7bf2-42b7-9207-b53a30111fd0.png)
 
+Wie man oben auf dem Bild sehen kann, sollte man escape="true" setzten, damit damit eben "tags" nicht als "tags" intepretiert werden, sondern als normale Buchstaben.
 
 ![jsf](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
 * Eine textliche Beschreibung
