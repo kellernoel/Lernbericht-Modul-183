@@ -28,8 +28,8 @@ Wie man oben auf dem Bild sehen kann, sollte man escape="true" setzten, damit da
 
 ## Verifikation
 
-1. Wie Sie im ersten Video sehen habe ich Sicherheitslücken in der InsecureApp kennengelernt.
-2. Ausserdem habe ich gelernt, wie man die Sicherheitslücke beheben kann --> zweites Video
+1. Ich habe Sicherheitslücken von der InsecureApp kennengelernt und wie man diese ausnutzen könnte --> erstes Video.
+2. Ausserdem habe ich gelernt, wie man diese Sicherheitslücke beheben kann --> zweites Video.
 
 # Reflektion zum Arbeitsprozess
 
