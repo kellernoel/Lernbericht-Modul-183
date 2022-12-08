@@ -17,6 +17,7 @@ Ich habe gelernt, dass man bei Informationen von einem Eingabefeld zum Beispiel 
 
 ![vor Escaping](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
 
+--> Bild vor Behebung und nötige Massnahme
 
 ![bild lernbericht](https://user-images.githubusercontent.com/74292626/206473622-6956e2c4-7bf2-42b7-9207-b53a30111fd0.png)
 
