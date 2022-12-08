@@ -3,7 +3,7 @@ Von Noel Keller
 
 ## Einleitung
 
-In diesem Auftrag ging es darum, dass ein Benutzer von der InsecureApp in der Suchfunktion irgendeinen html befehl eingeben kann und so auf den Code vom Programm "zugreifen" kann. Bei dem Beispiel, was ich im Lernbericht zeige ist das nicht wirklich eine schlimme Sache, aber durch diese Lücke kann ein Benutzer, welcher sich gut mit hacking auskennt, einfach das Programm zum Absturz bringen. 
+In diesem Auftrag ging es darum, dass ein Benutzer von der InsecureApp in der Suchfunktion irgendeinen html befehl eingeben kann und so auf den Code vom Programm "zugreifen" kann. Bei dem Beispiel, was ich in diesem Lernbericht zeige werde, gibt es nicth wirklich schlimme Auswirkungen, aber durch diese Lücke kann ein Benutzer, welcher sich gut mit hacking auskennt, einfach das Programm zum Absturz bringen. 
 
 ## Was habe ich gelernt?
 
@@ -26,7 +26,7 @@ Wie man oben auf dem Bild sehen kann, sollte man escape="true" setzten, damit da
 
 ## Verifikation
 
-1. Wie Sie im Video sehen habe ich Sicherheitslücken in der InsecureApp kennengelernt.
+1. Wie Sie im ersten Video sehen habe ich Sicherheitslücken in der InsecureApp kennengelernt.
 2. Ausserdem habe ich gelernt, wie man die Sicherheitslücke beheben kann --> zweites Video
 
 # Reflektion zum Arbeitsprozess
@@ -35,4 +35,4 @@ Was ist gut gelaufen --> Ich habe mich im Präsenzunterrich, wie auch im Online-
 
 Was ist nicht so gut gelaufen --> Da die Aufträge nicht leicht waren und manchmal auch schwer zu verstehen (Aufgabenstellung), habe ich nicht immer sofort begriffen, was zu tun ist und bin ein bisschen in Rückstand geraten.
 
-**VBV**: Wenn ich nächstes Modul mal nicht begriffen habe, was zu tun ist oder wenn ich die Aufgabenstellung nicht richtig verstanden habe, dann frage ich nach, damit ich nicht wie dieses Modul in Rückstand gerate.
+**VBV**: Wenn ich nächstes Modul, mal nicht begreiffe was zu tun ist oder wenn ich die Aufgabenstellung nicht richtig verstehe, dann frage ich nach, damit ich nicht wie dieses Modul in Rückstand gerate.
