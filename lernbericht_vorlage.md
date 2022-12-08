@@ -11,27 +11,20 @@ Ich habe gelernt, dass man bei Informationen von einem Eingabefeld zum Beispiel 
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+![vor Escaping](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
 
-![jsf](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
+--> Video vor Behebung
 
 ![bild lernbericht](https://user-images.githubusercontent.com/74292626/206473622-6956e2c4-7bf2-42b7-9207-b53a30111fd0.png)
 
-Wie man oben auf dem Bild sehen kann, sollte man escape="true" setzten, damit damit eben "tags" nicht als "tags" intepretiert werden, sondern als normale Buchstaben.
+Wie man oben auf dem Bild sehen kann, sollte man escape="true" setzten, damit damit eben "tags" nicht als "tags" intepretiert werden, sondern als normale Buchstaben. Die meisten Technologien Escapen standartgemäss, also kann man es in den meisten Fällen weglassen. Aber man sollte sich stets darüber informieren, weil es ist und bleibt eine Sicherheitslücke!
 
-![jsf](https://user-images.githubusercontent.com/74292626/206466917-478c3f75-4776-41fe-ab9f-7f147303eeb0.gif)
-* Eine textliche Beschreibung
-* Ein deutliches, aussa
-
-gekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![nach Escaping](https://user-images.githubusercontent.com/74292626/206475645-a259659a-cce9-434b-becd-3a61d89702a0.gif)
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-
-Wie Sie im Video sehen habe ich Sicherheitslücken in der InsecureApp kennengelernt.
+1. Wie Sie im Video sehen habe ich Sicherheitslücken in der InsecureApp kennengelernt.
+2. Ausserdem habe ich gelernt, wie man die Sicherheitslücke beheben kann --> zweites Video
 
 # Reflektion zum Arbeitsprozess
 
