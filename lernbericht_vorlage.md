@@ -3,7 +3,9 @@ Von Noel Keller
 
 ## Einleitung
 
-In diesem Auftrag ging es darum, dass ein Benutzer von der InsecureApp in der Suchfunktion irgendeinen html befehl eingeben kann und so auf den Code vom Programm "zugreifen" kann. Bei dem Beispiel, was ich in diesem Lernbericht zeige werde, gibt es nicth wirklich schlimme Auswirkungen, aber durch diese Lücke kann ein Benutzer, welcher sich gut mit hacking auskennt, einfach das Programm zum Absturz bringen. 
+In diesem Auftrag ging es darum, dass ein Benutzer von der InsecureApp in der Suchfunktion irgendeinen "tag" eingeben kann und so auf den Code vom Programm "zugreifen" kann. Bei dem Beispiel, was ich in diesem Lernbericht zeige werde, gibt es nicth wirklich schlimme Auswirkungen, aber durch diese Lücke kann ein Benutzer, welcher sich gut mit hacking auskennt, einfach das Programm zum Absturz bringen.
+
+Ich werde zeigen wo die Sicherheitslücke besteht, wie man Schaden anrichten könnte und wie man die Sicherheitslücke behebt. 
 
 ## Was habe ich gelernt?
 
